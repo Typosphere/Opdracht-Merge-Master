@@ -1,4 +1,5 @@
-# INGREDIENTS 
+# POKE BOWL
+## INGREDIENTS 
  
 * 200 g cooked brown rice or quinoa
 * 70 g Tempeh/Tofu or mushrooms
